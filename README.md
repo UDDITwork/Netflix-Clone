@@ -90,6 +90,6 @@ This project is licensed under the MIT License.
 
 I hope you enjoy using my Netflix clone! If you have any questions or need assistance, feel free to contact me.
 
-> Portfolio [garretthanberg.com](https://www.garretthanberg.com) &nbsp;&middot;&nbsp;
-> GitHub [@garretthanberg](https://github.com/garretthanberg) &nbsp;&middot;&nbsp;
-> LinkedIn [Garrett Hanberg](https://www.linkedin.com/in/garrett-hanberg/) 
+> Portfolio [UDDit.com](https://www.udditportfolio.online) &nbsp;&middot;&nbsp;
+> GitHub [@UDDITwork](https://github.com/UDDITwork) &nbsp;&middot;&nbsp;
+> LinkedIn [LordUddit](https://www.linkedin.com/in/lorduddit-/) 
